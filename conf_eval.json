@@ -117,7 +117,7 @@
         ]
     },
     "bisiesto.cpp" : {
-        "filename": "mintohourmin.cpp",
+        "filename": "bisiesto.cpp",
         "tests": [
             {
                 "inputs": ["2024"],
